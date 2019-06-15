@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Tilt Your Balls</string>
+    <string name="start_button">Start</string>
+    <string name="levelSelect">Select Level</string>
+    <string name="highScore">High Scores</string>
+    <string name="continueButtonText">Continue</string>
+    <string name="restart_level_button_text">Restart Level</string>
+    <string name="main_menu_buton_TExt">Main menu</string>
+</resources>
